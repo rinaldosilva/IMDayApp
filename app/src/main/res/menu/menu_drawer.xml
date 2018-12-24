@@ -8,7 +8,7 @@
         app:showAsAction="always" />
     <item
         android:id="@+id/lista"
-        android:title="Cronograma"
+        android:title="Listagem"
         android:icon="@android:drawable/ic_menu_today"
         app:showAsAction="always" />
 
