@@ -3,4 +3,5 @@
     <string name="msg_open">Abrir_Drawer</string>
     <string name="msg_close">Fechar Drawer</string>
     <string name="msg_sobre">Este aplicativo foi criado para exibir uma listagem dos responsáveis pelos incidentes por data</string>
+    <string name="msg_sobre_autor">Criado por Rinaldo Silva (c)2008</string>
 </resources>
